@@ -1,5 +1,5 @@
 
-#Homework 3
+Homework 3
 
 Ria Deshpande  
 November 9, 2020

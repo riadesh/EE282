@@ -26,7 +26,7 @@ wc -l all-chromosomes-namesizes.txt #counts the number of lines, assuming that e
 
 
 ### Summarize Annotation Assembly
-To summarize the annotation assembly, we use a series of small pipelines. The answers are given in the comments below.
+To summarize the annotation assembly, we use a series of small pipelines. Similar to above, we need to download the appropriate data and verify the integrity of the files. The answers are given in the comments below.
 
 ``` bash
 wget ftp://ftp.flybase.net/genomes/dmel/current/gtf/dmel-all-r6.36.gtf.gz
